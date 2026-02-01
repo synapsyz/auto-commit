@@ -21,18 +21,8 @@ Turn your code changes into professional Git history in milliseconds.
 
 ## 🚀 Installation
 
-### Option 1: The One-Line Installer (Recommended)
 
-Run this command in your terminal. It will install dependencies, set up the commit alias, and prompt you for your API key securely.
-
-```bash
-curl -sSL https://raw.githubusercontent.com/synapsyz/auto-commit/main/install.sh | bash
-
-```
-
-> **Note:** You will need a free API Key from [Groq Cloud](https://console.groq.com/). The script will ask for it.
-
-### Option 2: Manual Install
+### Manual Install
 
 If you prefer to set it up yourself, follow these steps:
 
